@@ -1,4 +1,4 @@
 # hello-world
 just a nice start!
 
-I am from HK!
+What happens in tokyo, stays in tokyo
